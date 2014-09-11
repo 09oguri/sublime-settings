@@ -1,0 +1,16 @@
+{
+	"draw_white_space": "all",
+	"draw_indent_guides": true,
+	"draw_minimap_border": true,
+	"indent_guide_options": ["draw_normal", "draw_active"],
+	"font_face": "メイリオ",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"piatto_folder_icons": true,
+	"theme": "Piatto Dark 3.sublime-theme",
+	"show_encoding": true,
+	"show_line_endings": true
+}
